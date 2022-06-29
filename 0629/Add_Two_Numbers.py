@@ -23,26 +23,23 @@ class Solution:
         l2_str = ''
         
         for element in l1_list: 
-            # converting integer to string and adding into variable
             l1_str += str(element)
          
         for element in l2_list: 
-            # converting integer to string and adding into variable
             l2_str += str(element)
             
-        print(l1_str, l2_str)
         final_sum = int(l1_str) + int(l2_str)
         final_sum_str = str(final_sum)[::-1]
-        print(final_sum_str)
+        
         final_list = []
         for i in final_sum_str:
             final_list.append(i)
         
-        l3 = ListNode(0)
-        cur = l3 = ListNode(0)
+        cur = l3 = ListNode()
         
         for e in final_list:
             cur.next = ListNode(e)
             cur = cur.next
+            
         return l3.next
         
