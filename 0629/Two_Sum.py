@@ -34,7 +34,7 @@ class Solution:
     # V3
     def twoSum(self, nums: List[int], target:int) -> List[int]:
             values = {}
-            # structure: values{ value:index}
+            # structure: values{value:index}
             for idx, element in enumerate(nums):
                 check = target-element 
                 if check in values:
