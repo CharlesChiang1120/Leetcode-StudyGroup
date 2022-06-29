@@ -40,8 +40,6 @@ class Solution:
         
         for e in final_list:
             cur.next = ListNode(e)
-            print(cur.val)
             cur = cur.next
         
         return l3.next
-        
