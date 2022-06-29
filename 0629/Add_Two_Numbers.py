@@ -35,11 +35,13 @@ class Solution:
         for i in final_sum_str:
             final_list.append(i)
         
+        # 兩個指向同一個linked list
         cur = l3 = ListNode()
         
         for e in final_list:
             cur.next = ListNode(e)
+            print(cur.val)
             cur = cur.next
-            
+        
         return l3.next
         
