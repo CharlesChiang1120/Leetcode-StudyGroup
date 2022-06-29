@@ -10,9 +10,7 @@ class Solution:
                 else:
                     pass
 
-
-
-
+                    
     # V2
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hash_table = {}
