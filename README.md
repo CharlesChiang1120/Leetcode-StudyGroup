@@ -15,8 +15,8 @@
 
 1. 下次討論時間: 日期_7/8_  時間_PM21:00_
 2. 3題easy : 
-     - 14. Longest Common Prefix
-     - 20. Valid Parentheses
-     - 21. Merge Two Sorted Lists
+     - Longest Common Prefix
+     - Valid Parentheses
+     - Merge Two Sorted Lists
 3. 1題medium
-     - 3. Longest Substring Without Repeating Characters
+     - Longest Substring Without Repeating Characters
