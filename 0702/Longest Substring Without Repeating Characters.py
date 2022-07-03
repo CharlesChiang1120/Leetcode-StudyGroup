@@ -1,8 +1,8 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        
         if s == "":
             return 0
+        
         else:
             substring_list = []
             for j in range(0, len(s)):
