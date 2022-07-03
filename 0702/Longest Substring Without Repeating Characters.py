@@ -5,8 +5,6 @@ class Solution:
             return 0
         else:
             substring_list = []
-            max_length = 0
-            max_string  = ''
             for j in range(0, len(s)):
                 substring = ''
                 substring += s[j]
