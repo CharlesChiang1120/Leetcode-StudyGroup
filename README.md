@@ -9,6 +9,8 @@
      - Convert Sorted Array to Binary Search Tree
 3. 1題medium
      - Longest Substring Without Repeating Characters
+
+
 0629
 
 1. 下次討論時間: 日期_7/1_  時間_PM21:00_
@@ -18,6 +20,7 @@
      - Roman to Integer
 3. 1題medium
      - Add Two Numbers
+
 
 # Extra Practice
 
