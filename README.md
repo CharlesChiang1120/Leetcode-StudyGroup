@@ -30,3 +30,7 @@
      
 2. 1題 Easy
      - Valid Palindrome
+
+0704
+1. 1題 Easy
+     - Implement strStr()
