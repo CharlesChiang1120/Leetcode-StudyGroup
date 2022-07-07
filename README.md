@@ -20,17 +20,3 @@
      - Roman to Integer
 3. 1題 Medium
      - Add Two Numbers
-
-
-# Extra Practice
-
-0703
-1. 1題 Hard
-     - Median of Two Sorted Arrays
-     
-2. 1題 Easy
-     - Valid Palindrome
-
-0704
-1. 1題 Easy
-     - Implement strStr()
