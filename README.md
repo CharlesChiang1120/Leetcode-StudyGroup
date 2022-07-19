@@ -1,5 +1,19 @@
 # Leetcode-StudyGroup
 
+0714
+1. 下次討論時間: 日期_7/29_  時間_PM21:00_
+2. 3題 Easy 
+     - Implement strStr()
+     - Search Insert Position
+     - Climbing Stairs
+     - Linked List Cycle
+     - To Lower Case
+3. 1題 Medium
+     - Longest Palindromic Substring
+4. 1題 Hard
+     - Regular Expression Matching
+     
+
 0708
 1. 下次討論時間: 日期_7/14_  時間_PM21:00_
 2. 3題 Easy 
