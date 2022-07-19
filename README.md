@@ -2,7 +2,7 @@
 
 0714
 1. 下次討論時間: 日期_7/29_  時間_PM21:00_
-2. 3題 Easy 
+2. 5題 Easy 
      - Implement strStr()
      - Search Insert Position
      - Climbing Stairs
