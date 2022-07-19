@@ -39,3 +39,13 @@ class Solution:
                 a, b= b, a + b
 
             return b
+        
+        # V4
+         a, b = 1, 1
+        
+            while n != 0:
+                
+                a, b = b, a+b
+                n = n-1
+                
+            return a
