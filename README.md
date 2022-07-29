@@ -1,5 +1,21 @@
 # Leetcode-StudyGroup
 
+7/29
+1. 下次討論時間: 日期_8/4_  時間_PM21:00_
+2. 3題 Easy 
+     - Add Binary
+     - Best Time to Buy and Sell Stock
+     - Majority Element
+3. Medium：
+     - Generate Parentheses
+
+未完成：
+4. Medium：
+     - Longest Palindromic Substring
+5. Hard：
+     - Regular Expression Matching
+
+
 0714
 1. 下次討論時間: 日期_7/29_  時間_PM21:00_
 2. 5題 Easy 
